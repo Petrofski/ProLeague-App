@@ -18,9 +18,6 @@ public class ProLeagueApplication extends Application {
         Firebase.setAndroidContext(this);
         Firebase.getDefaultConfig().setPersistenceEnabled(true);
 
-        /*
-        Parse.initialize(this, "11te8JF0rpXf0Jsu8ALrbDAhUCh29wuoYDsHzbTu", "YINZlD83uVhs2shKkphSCIoZ2qAQmH7DbhFiurag");
-        */
         Parse.initialize(this, "", "");
         ParseInstallation.getCurrentInstallation().saveInBackground();
 
