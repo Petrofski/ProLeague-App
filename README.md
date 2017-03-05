@@ -1,7 +1,7 @@
 # ProLeague-App
-Android app for Jupiler Pro League
+Android app: Jupiler Pro League
 
-![alt tag](https://github.com/Petrofski/ProLeague-App/blob/master/screenshots/login.png =150x)
-![alt tag](https://github.com/Petrofski/ProLeague-App/blob/master/screenshots/matchday.png =150x)
-![alt tag](https://github.com/Petrofski/ProLeague-App/blob/master/screenshots/table.png =150x)
-![alt tag](https://github.com/Petrofski/ProLeague-App/blob/master/screenshots/profile.png =150x)
+<img src="https://github.com/Petrofski/ProLeague-App/blob/master/screenshots/login.png" width="250">
+<img src="https://github.com/Petrofski/ProLeague-App/blob/master/screenshots/matchday.png" width="250">
+<img src="https://github.com/Petrofski/ProLeague-App/blob/master/screenshots/table.png" width="250">
+<img src="https://github.com/Petrofski/ProLeague-App/blob/master/screenshots/profile.png" width="250">
