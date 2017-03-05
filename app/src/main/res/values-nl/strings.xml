@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Application -->
+    <string name="app_name">Pro League</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="app_version">App versie: </string>
+
+    <!-- Log In / Register -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Passwoord</string>
+
+    <string name="title_activity_login">Log in</string>
+    <string name="title_activity_register">Registreer</string>
+
+    <string name="action_sign_in">Log in</string>
+    <string name="action_register">Registreer</string>
+
+    <string name="link_login">Al een account? Log in.</string>
+    <string name="link_register">Nog geen account? Maak er een.</string>
+
+
+    <!-- Profile -->
+    <string name="logout">Log uit</string>
+
+    <!-- Tabbed View Titles -->
+    <string name="title_matchday">MATCHDAG</string>
+    <string name="title_leatue_table">SCOREBORD</string>
+    <string name="title_profile">PROFIEL</string>
+
+    <!-- Match Day -->
+    <string name="end"> - EINDE</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Application -->
+    <string name="app_name">Pro League</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="app_version">Version application: </string>
+
+    <!-- Log In / Register -->
+    <string name="prompt_email">Mail</string>
+    <string name="prompt_password">Mot de passe</string>
+
+    <string name="title_activity_login">Connecter</string>
+    <string name="title_activity_register">Inscrir</string>
+
+    <string name="action_sign_in">Connectez vous</string>
+    <string name="action_register">Enregistrez vous</string>
+
+    <string name="link_login">Déjà un profil? Connectez vous.</string>
+    <string name="link_register">Pas de profil? Crée un.</string>
+
+
+    <!-- Profile -->
+    <string name="logout">Déconnecter</string>
+
+    <!-- Tabbed View Titles -->
+    <string name="title_matchday">JOUR DE MATCH</string>
+    <string name="title_leatue_table">TABLEAU</string>
+    <string name="title_profile">PROFIL</string>
+
+    <!-- Match Day -->
+    <string name="end"> - FIN</string>
+
+    <!-- Android Ads -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
